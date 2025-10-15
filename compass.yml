@@ -1,0 +1,13 @@
+name: sdw
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/2b3e898b-efd4-42a4-a6fc-35b3c14f1a3f
+description: Repository for the Spatial Data on the Web Working Group
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
